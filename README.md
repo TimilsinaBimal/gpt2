@@ -79,6 +79,6 @@ python -m gpt2.inference
 
 ## License
 
-MIT License
+Apache 2.0 License
 
 *Disclaimer: This README file is generated using AI*
